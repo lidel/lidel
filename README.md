@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [IPFS](https://ipfs.io) in [user agents](https://en.wikipedia.org/wiki/User_agent)
+- 🔭 I work at the intersections of [IPFS](https://ipfs.tech), [HTTP](https://specs.ipfs.tech/http-gateways/), [the web](https://github.com/ipfs/in-web-browsers#readme), and user agency.
 
 <!--
 **lidel/lidel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
