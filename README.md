@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I work at the intersections of [IPFS](https://ipfs.tech), [HTTP](https://specs.ipfs.tech/http-gateways/), [the web](https://github.com/ipfs/in-web-browsers#readme), and user agency.
+- 🔭 2015-2026: worked at the intersections of [IPFS](https://web.archive.org/web/20260805002943/https://ipfs.tech/), [HTTP](https://web.archive.org/web/20260722222433/https://specs.ipfs.tech/http-gateways/), [the web](https://github.com/ipfs/in-web-browsers/blob/aeca0cda739a5513c4ed25781f40dafed36e7cd2/README.md#the-ipfs-web-browsers-integration-group), and user agency.
+- 🌱 I'm taking an extended break and I'm no longer involved with the IPFS Project, so I may be slow to reply to notifications here.
 
 <!--
 **lidel/lidel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
