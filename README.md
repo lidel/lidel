@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-> [!IMPORTANT]
-> My work on IPFS is coming to an end. To make the handoff easier, I'm holding office hours during a three-month transition period that ends on **Sep 30, 2026**.
->
-> If you maintain or rely on IPFS projects I worked on and have questions about maintenance or handoff, please [book a slot](https://calendar.app.google/tpkVtW9otUHvav6a8). I'm happy to share context while I still can.
-
 - 🔭 2015-2026: worked at the intersections of [IPFS](https://web.archive.org/web/20260805002943/https://ipfs.tech/), [HTTP](https://web.archive.org/web/20260722222433/https://specs.ipfs.tech/http-gateways/), [the web](https://github.com/ipfs/in-web-browsers/blob/aeca0cda739a5513c4ed25781f40dafed36e7cd2/README.md#the-ipfs-web-browsers-integration-group), and user agency.
-- 🌱 After that I'm taking an extended break. I won't be engaging with IPFS projects anymore, so please don't expect replies to notifications here. Thank you for the years we shared.
+- 🌱 My work on IPFS ended on Sep 30, 2026. I'm on an indefinite break, so please don't expect replies to notifications here.
+- 💬 Please post support questions on the community forum: [discuss.ipfs.tech](https://discuss.ipfs.tech).
+
+Thank you for the years we shared.
 
 <!--
 **lidel/lidel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
